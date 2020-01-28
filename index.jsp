@@ -1,4 +1,4 @@
-<html>ששש
+<html>
 <head>
   <title>Echoing HTML Request Parameters</title>
 </head>
